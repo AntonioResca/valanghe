@@ -1,0 +1,20 @@
+[
+  {
+    "ZONA": "Brenta settentrionale - Peller",
+    "VALANGHE SOTTOBOSCO": null,
+    "VALANGHE SOPRABOSCO": "moderate",
+    "LIMITE BOSCO": "2200"
+  },
+  {
+    "ZONA": "Brenta meridionale",
+    "VALANGHE SOTTOBOSCO": null,
+    "VALANGHE SOPRABOSCO": "moderate",
+    "LIMITE BOSCO": "2200"
+  },
+  {
+    "ZONA": "Latemar",
+    "VALANGHE SOTTOBOSCO": "moderate",
+    "VALANGHE SOPRABOSCO": "low",
+    "LIMITE BOSCO": "treeline"
+  }
+]
